@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final Project Shopping Search</string>
+    <string name="button1">search</string>
+    <string name="button2">back</string>
+    <string name="name">Name</string>
+    <string name="what_do_you_want_to_shop">What do you want to shop...</string>
+    <string name="back">back</string>
+</resources>
